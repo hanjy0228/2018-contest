@@ -48,7 +48,6 @@ a{
 a:hover{
     text-decoration:underline;
 }
-/*清浮*/
 .clearfix:after{
     content:"";
     display:block;
